@@ -1,0 +1,31 @@
+body{
+   background: linear-gradient(24deg, rgba(180,182,222,1) 24%, rgba(105,174,192,1) 43%, rgba(152,148,233,1) 70%) ;
+  height:400px;
+}
+.wrapper{
+  margin-top:100px;
+  display:flex;
+  padding:80px 50px;
+  margin-left:50px;
+  flex-direction:column;
+  border:1px solid white;
+  border-radius:10px;
+  margin-right:400px;
+  background-color:#fff;
+}
+.title{
+  color:#3C3C3C;
+  font-size:30px;
+}
+.title-link{
+  padding-bottom:8px;
+}
+.title-link a{
+  text-decoration:none;
+  color : #8e8e8e;
+  font-size:17px;
+}
+.list-image img{
+  border:1px solid white;
+  border-radius:4px;
+}
